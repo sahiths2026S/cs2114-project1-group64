@@ -1,10 +1,7 @@
 # cs2114-project1-group64
 This is a roulette based decision game about predicting a sequence.
 
-# CS-Roulette
-This is the repository for the CS 2k September team.
-
-Player Experience:
+# Player Experience
 "Press 1 to view tutorial, press 2 to skip."
 2
 "There are X cyanide pills and y sugar pills."
@@ -21,12 +18,12 @@ Player Experience:
 "You have been given an item."
 "There are X cyanide pills and y sugar pills."
 
-Reach goals:
+# Reach goals
 Tutorial
 Items
 Basic terminal graphics
 
-Items:
+# Items
 Acid - Current pill deals 2 damage instead of 1.
 Vial - Remove the current pill from the chamber.
 Neutralizer - Heal 1 health.
@@ -34,7 +31,7 @@ Handcuffs - Skip The Dealer's next turn.
 Burner phone - player learns of one pill in the sequence at random.
 
 
-Logic:
+# Logic
 Object class for game data:
     Int for player health
     Int for dealer health
