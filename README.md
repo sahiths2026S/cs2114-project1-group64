@@ -123,7 +123,8 @@ from health and the queue instead of storing a redundant flag.
 
 ## Presentation and team workflow
 
-The final slide deck is in `presentation/Pill-Roulette-Presentation.pptx`. It is
+The [final slide deck](presentation/Pill-Roulette-Presentation.pptx) is in the
+`presentation` folder. It is
 editable and can be imported into Google Slides. The speaker notes provide a
 10-minute route through the four rubric sections, including a two-minute live
 demo. Review the reflection material in your own words before presenting.

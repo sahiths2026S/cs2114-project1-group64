@@ -18,7 +18,7 @@ rely on a lucky random order.
 | Input validation | `1`, `2`, optional surrounding whitespace | Null, non-string object, blank, decimal, negative, mixed/unsupported command rejected |
 | UI status and results | Health/counts/turn/result readable | Empty and active result calls safe, null dependencies rejected |
 | UI errors/tutorial | Repeated messages and strategy text print | No game state mutation, invalid result arguments rejected |
-| Main options | Help, tutorial, demo, seed launch correctly | Unknown/missing/malformed options and null dependencies rejected safely |
+| Main options | Help, tutorial, demo, seed launch correctly | Unknown/missing/malformed options rejected safely |
 
 Invalid setup is a programming error and raises a controlled exception. Invalid
 commands typed during play produce a friendly message and retry. These are
