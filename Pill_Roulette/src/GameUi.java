@@ -96,7 +96,7 @@ public class GameUi {
 
     /** Prints the rules and a short explanation of how public counts inform choices. */
     public void displayTutorial() {
-        output.println("PILL ROULETTE - HOW TO PLAY");
+        output.println("PILL ROULETTE TUTORIAL - HOW TO PLAY");
         output.println("A fictional game for two local players sharing one terminal.");
         output.println("Player 1 starts. Enter 1 to take a pill or 2 to give it to the other player.");
         output.println("Cyanide costs the recipient 1 health; sugar costs no health.");
