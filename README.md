@@ -130,12 +130,4 @@ editable and can be imported into Google Slides. The speaker notes provide a
 demo. Review the reflection material in your own words before presenting.
 
 GenAI was used for code generation, completion, and testing, as well as preparing
-the requested presentation. Generated changes still need to be understood and
-defended by the group. Existing commit history is preserved. New commits use the
-configured account and do not claim to be work authored by another teammate.
-Each member should make their own genuine follow-up contributions under their
-own Git identity; the commit history must reflect actual work.
-
-Before lab: rehearse the demo and run the tests, upload the PPTX to Canvas, and
-paste the public repository URL into the Canvas submission comment. The slide
-file and repo do not automatically submit themselves to Canvas.
+the requested presentation.
