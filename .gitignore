@@ -23,3 +23,8 @@
 hs_err_pid*
 replay_pid*
 /.metadata/
+
+# Local compilation and downloaded test dependencies
+/build/
+/.deps/
+.DS_Store
